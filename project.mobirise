@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Fitness School",
-    "currentPage": "suporte.html",
+    "currentPage": "sobre.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2305,7 +2305,7 @@
               "color": "#465052"
             },
             "H2": {
-              "color": "#ff9122"
+              "color": "#fafafa"
             }
           },
           "_name": "content5",
